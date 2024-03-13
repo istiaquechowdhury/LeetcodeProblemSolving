@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj": {}
+    "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj": {
+    "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj",
+        "projectUniqueName": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj",
         "projectName": "PalindromeNumber",
-        "projectPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj",
+        "projectPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\PalindromeNumber\\PalindromeNumber.csproj",
         "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\PalindromeNumber\\obj\\",
+        "outputPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\PalindromeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",

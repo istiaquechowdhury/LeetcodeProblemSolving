@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\ValidParenthisis\\ValidParenthisis.csproj",
+      "projectUniqueName": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\ValidParenthisis\\ValidParenthisis.csproj",
       "projectName": "ValidParenthisis",
-      "projectPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\ValidParenthisis\\ValidParenthisis.csproj",
+      "projectPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\ValidParenthisis\\ValidParenthisis.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\ValidParenthisis\\obj\\",
+      "outputPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\ValidParenthisis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",

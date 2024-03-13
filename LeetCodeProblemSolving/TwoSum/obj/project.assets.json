@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\TwoSum\\TwoSum.csproj",
+      "projectUniqueName": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\TwoSum\\TwoSum.csproj",
       "projectName": "TwoSum",
-      "projectPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\TwoSum\\TwoSum.csproj",
+      "projectPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\TwoSum\\TwoSum.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\TwoSum\\obj\\",
+      "outputPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\TwoSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",

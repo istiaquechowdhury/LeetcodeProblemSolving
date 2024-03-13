@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+      "projectUniqueName": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
       "projectName": "LongestCommonPrefix",
-      "projectPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+      "projectPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\LongestCommonPrefix\\obj\\",
+      "outputPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\LongestCommonPrefix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",

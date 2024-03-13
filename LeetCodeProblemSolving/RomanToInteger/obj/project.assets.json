@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\RomanToInteger\\RomanToInteger.csproj",
+      "projectUniqueName": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\RomanToInteger\\RomanToInteger.csproj",
       "projectName": "RomanToInteger",
-      "projectPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\RomanToInteger\\RomanToInteger.csproj",
+      "projectPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\RomanToInteger\\RomanToInteger.csproj",
       "packagesPath": "C:\\Users\\DCL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DCL\\source\\repos\\LeetCodeProblemSolving\\RomanToInteger\\obj\\",
+      "outputPath": "D:\\LeetcodeProblemSolving\\LeetCodeProblemSolving\\RomanToInteger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
