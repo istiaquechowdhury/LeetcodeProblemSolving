@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.AssemblyInfo.cs
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\bin\Debug\net7.0\RomanToInteger.exe
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\bin\Debug\net7.0\RomanToInteger.deps.json
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\bin\Debug\net7.0\RomanToInteger.runtimeconfig.json
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\bin\Debug\net7.0\RomanToInteger.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\bin\Debug\net7.0\RomanToInteger.pdb
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\refint\RomanToInteger.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.pdb
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\RomanToInteger.genruntimeconfig.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\RomanToInteger\obj\Debug\net7.0\ref\RomanToInteger.dll

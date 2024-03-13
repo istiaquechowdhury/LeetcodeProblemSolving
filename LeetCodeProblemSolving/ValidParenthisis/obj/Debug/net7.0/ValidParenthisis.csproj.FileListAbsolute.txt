@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.AssemblyInfo.cs
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\bin\Debug\net7.0\ValidParenthisis.exe
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\bin\Debug\net7.0\ValidParenthisis.deps.json
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\bin\Debug\net7.0\ValidParenthisis.runtimeconfig.json
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\bin\Debug\net7.0\ValidParenthisis.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\bin\Debug\net7.0\ValidParenthisis.pdb
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\refint\ValidParenthisis.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.pdb
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ValidParenthisis.genruntimeconfig.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\ValidParenthisis\obj\Debug\net7.0\ref\ValidParenthisis.dll

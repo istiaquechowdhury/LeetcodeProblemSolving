@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.AssemblyInfo.cs
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.exe
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.deps.json
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.runtimeconfig.json
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\bin\Debug\net7.0\PalindromeNumber.pdb
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\refint\PalindromeNumber.dll
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.pdb
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\PalindromeNumber.genruntimeconfig.cache
+C:\Users\DCL\source\repos\LeetCodeProblemSolving\PalindromeNumber\obj\Debug\net7.0\ref\PalindromeNumber.dll
